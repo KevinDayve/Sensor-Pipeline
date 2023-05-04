@@ -1,0 +1,10 @@
+=== Confluent Cloud API key: lsrc-pr2jok ===
+
+API key:
+LGQESQQNWGGLLHPO
+
+API secret:
+pTrihIpY6a5aKgKUJRVIHTdsuAUr/C6bauxwx2DTpnk22kMDHXjZ1WDoe7vUJ6KC
+
+Endpoint:
+https://psrc-znpo0.ap-southeast-2.aws.confluent.cloud
