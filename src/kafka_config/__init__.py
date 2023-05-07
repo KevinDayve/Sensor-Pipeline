@@ -24,7 +24,7 @@ def sasl_conf():
     return sasl_conf
 
 def schema_registry_conf():
-    pass
+    return {"url": ENDPOINT_SCHEMA_URL,"basic.auth.user.info": f"{ENDPOINT_SCHEMA_URL}:{SCHEMA_REGISTER_SECRET_KEY}"}
 
 if __name__ == "__main__":
     sasl_conf()
